@@ -16,8 +16,9 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 ![](Resources/Photos/Deliverable1.png)
 
 In the Above output, we are able to tell that:
-- Vehicle length and vehicle ground clearance provide non-random amounts of variance to the model statistically. Both have an impact on miles per gallon (mpg) for the MachaCar prototype.
-
+- Vehicle length and vehicle ground clearance provide non-random amounts of variance to the model statistically. Both have an impact on miles per gallon (mpg) for the MachaCar prototype. Alternatively, the other three (vehicle weight, spoiler angle, and AWD-All Wheel Drive) have p-values that distribute a random amount of vairance within the dataset.
+- The p-value we are working with is smaller than the assumed significance level of 0.05%. What this tells us is that we can reject the null hypothesis because we have enough evidence to do so, confirming that the slope is not zero.
+- Looking at the r-squared value of this linear model, we can determine that 0.7149 (approximately 72%) of the mpg predictions will be determined by this model. Based on this, we can confirm that this model does predict mpg of MechaCar pprototypes effectively.
 
 ## Summary Statistics on Suspension Coils
 
