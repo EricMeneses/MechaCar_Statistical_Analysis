@@ -15,6 +15,8 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 ![](Resources/Photos/Deliverable1.png)
 
+In the Above output, we are able to tell that:
+- Vehicle length and vehicle ground clearance provide non-random amounts of variance to the model statistically. Both have an impact on miles per gallon (mpg) for the MachaCar prototype.
 
 
 ## Summary Statistics on Suspension Coils
