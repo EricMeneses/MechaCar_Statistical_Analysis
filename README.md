@@ -30,12 +30,18 @@ When we look at all of the manufacturing lots and whetherthe design fits the spe
 When we break the lots down to their prospective lots (1, 2 & 3) we notice that lot 1 (0.98 variance) and lot 2 (7.47 variance) are most certainly within the 100 PSI vairance requirement. Lot 3, however, has a much higher variance (170.29 variance). With this variance so high, it is causing a disproportionate variance at the full lot reading. In other words, this means that the current manufacturing data does not meet the design specification of 100 pounds per square inch for each lot individually.
 
 ## T-Tests on Suspension Coils
+The next step in our process is to administer a t-test based on the suspension coil data so that we can determine if there is a statistical difference between the mean of our dataset and a potential population dataset. The population mean of 1500 is what we used in the following analysis:
 
 ### Sample t-test
 ![](Resources/Photos/Deliverable3_sampletest.png)
+- Above is the summary of the t-test results from all manufacturing lots.
+
+In the above sample test, we find that the true mean of the sample is actually 1498.78. We cannot reject the null hypothesis because there is not enough evidence to support the decision to do so. Combined, all three manufacturing lots are statistically comparable to the presumed population mean of 1500.
 
 ### Sample t-test: lot1
 ![](Resources/Photos/Deliverable3_sampletest_Lot1.png)
+
+1. 
 
 ### Sample t-test: lot2
 ![](Resources/Photos/Deliverable3_sampletest_Lot2.png)
