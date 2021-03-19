@@ -41,14 +41,16 @@ In the above sample test, we find that the true mean of the sample is actually 1
 ### 1. Sample t-test: lot1
 ![](Resources/Photos/Deliverable3_sampletest_Lot1.png)
 
-1. 
+1. Lot 1 has an actual sample mean of 1500, which is spot on with the average of the 3 lots. Because lot 1 has a p-value of 1, we do not want to reject the null hypothesis because there would be no statistical difference between the sample and population mean.
 
 ### 2. Sample t-test: lot2
 ![](Resources/Photos/Deliverable3_sampletest_Lot2.png)
 
+2. Similar to lot 1, lot 2 had a sample mean of 1500.02. It's p-value was 0.61. Because of these details, the null hypothesis shouuld not be rejected.
+
 ### 3. Sample t-test: lot3
 ![](Resources/Photos/Deliverable3_sampletest_Lot3.png)
 
-
+3. Lot 3, is a bit different compared to its counter lots. The sample mean here is 1496.14 but the p-value is at a 0.04, which is below the common significance level (0.05). Because of this, we need to reject the null hypothesis because the sample mean and the presumed population mean are not statistically different.
 
 ## Challenge Sumary
