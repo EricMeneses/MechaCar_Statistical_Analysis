@@ -53,4 +53,20 @@ In the above sample test, we find that the true mean of the sample is actually 1
 
 3. Lot 3, is a bit different compared to its counter lots. The sample mean here is 1496.14 but the p-value is at a 0.04, which is below the common significance level (0.05). Because of this, we need to reject the null hypothesis because the sample mean and the presumed population mean are not statistically different.
 
-## Challenge Sumary
+## Study Design: MechaCar vs Competition
+
+### Metrics to Test
+
+Collect data over time of similar models from competitive manufacturers to receive the following metrics:
+1. Cost - Dependent Variable
+2. Horse Power - Independent Variable
+3. Maintenance - Independent Variable
+4. Safety Rating - Independent Variable
+
+### Null or Alternative Hypothesis
+- Null Hypothesis: MechaCar accurately priced according to the performance of key factors for the competitive market
+- Alternative Hypothesis: MechaCar inaccurately priced according to the performance of key factors for the competitive market
+
+### What Statistical Test to use to Test the Hypothesis
+By using a multiple linear regression, we can determine the factors that have the more favorable correlation and/or predictability with the listed selling price to see which combination of features hold the greatest impact.
+
