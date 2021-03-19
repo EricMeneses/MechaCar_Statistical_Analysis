@@ -38,15 +38,15 @@ The next step in our process is to administer a t-test based on the suspension c
 
 In the above sample test, we find that the true mean of the sample is actually 1498.78. We cannot reject the null hypothesis because there is not enough evidence to support the decision to do so. Combined, all three manufacturing lots are statistically comparable to the presumed population mean of 1500.
 
-### Sample t-test: lot1
+### 1. Sample t-test: lot1
 ![](Resources/Photos/Deliverable3_sampletest_Lot1.png)
 
 1. 
 
-### Sample t-test: lot2
+### 2. Sample t-test: lot2
 ![](Resources/Photos/Deliverable3_sampletest_Lot2.png)
 
-### Sample t-test: lot3
+### 3. Sample t-test: lot3
 ![](Resources/Photos/Deliverable3_sampletest_Lot3.png)
 
 
